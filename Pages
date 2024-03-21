@@ -1,0 +1,9 @@
+Home page: A landing page that introduces your application and its features.
+Login page: A page for users to log in to their account.
+Register page: A page for users to create a new account.
+Profile page: A page for users to view and edit their profile information.
+Symptom checker page: A page where users can input their symptoms and view the predicted diseases. This page can include the SymptomInput and PredictionResult components.
+Chatbot page: A page for users to ask health-related queries and view the chatbot's responses.
+Blog page: A page that displays the list of blog posts.
+Blog post page: A page that displays the full content of a single blog post.
+Error page: A page that displays an error message when something goes wrong.
